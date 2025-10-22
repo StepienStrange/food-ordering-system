@@ -315,3 +315,4 @@ include 'includes/wallet.php';
 ?>
 
 <!-- This is my git activity 2-->
+<!-- This is pull clone-->
